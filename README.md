@@ -4,7 +4,7 @@ A dashboard analyzing worldwide COVID-19 statistics starting from February 24th,
 
 ### Data
 
-The data is updated everyday using official numbers from governments and health ministries worldwide and can be found [here](https://public.tableau.com/views/COVID-19VaccinationAnalysis/COVIDVaccineTracker?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+The data is updated everyday using official numbers from governments and health ministries worldwide and can be found [here](https://public.tableau.com/views/COVID-19VaccinationAnalysis/COVIDVaccineTracker?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 ### Tools
 
