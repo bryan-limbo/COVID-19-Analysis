@@ -10,4 +10,6 @@ The data is updated everyday using official numbers from governments and health 
 
 - Tableau: This project was purely through Tableau to build an interactive dashboard showcasing how many people are vaccinated per country/continent.
 
+### Results
+
 Link to the [dashboard](https://public.tableau.com/views/COVID-19VaccinationAnalysis/COVIDVaccineTracker?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
